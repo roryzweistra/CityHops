@@ -1,7 +1,8 @@
-X C C X C C X
-D           R
-D           R
-X           X
-D           D
-D           D
-X P P X P P X
+X C C X C X C X
+D             R
+X             R
+D             X
+X             X
+D             R
+D             R
+X P P X P X P X
