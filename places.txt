@@ -16,5 +16,9 @@
 -: B+J home
 x: J+R home
 -: T home
--: T cannes home
+x: T cannes home
 
+-: Schiphol
+-: Rotterdam / The Hague Airport
+-: Strassbourg Airport
+-: San Diego Airport
