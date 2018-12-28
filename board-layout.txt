@@ -18,3 +18,32 @@ X P P X P P X X
 22 21 20 19 18 17 16 15
 
 
+01: Start
+02: Christopher home
+03: Christopher treehouse
+04: Chance
+05: Abigail day care
+06: Schiphol airport
+07: Andrew school 
+08: Customs
+09: Rory / Lisa home
+10: Judo 
+11: Chance
+12: Rotterdam / The Hague airport
+13: Vlietkinderen
+14: Emmaus
+15: Terminal
+16: Strassbourg airport
+17: Christine home
+18: Christine Cannes
+19: Chance
+20: Roel home
+21: John home
+22: Go to customs
+23: Wally school 
+24: Taekwondo
+25: Chance
+26: Deniz home
+27: San Diego airport
+28: Istanbul
+
